@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1439593284 source:/home/nullptr/Documents/Epsilon Snippets/Ejemplo OpenGL/main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<shader.h>
+

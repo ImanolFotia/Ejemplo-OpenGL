@@ -1,0 +1,10 @@
+#version 110
+
+varying vec3 outColor;
+
+uniform float time;
+
+void main()
+{
+	gl_FragColor = vec4(outColor * (sin(time) + cos(time)), 1.0f);
+}
